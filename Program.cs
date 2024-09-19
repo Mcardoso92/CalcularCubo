@@ -6,6 +6,7 @@ namespace EJERCICIO_2._2
     {
         static void Main(string[] args)
         {
+            //SE AGREGO COMENTARIO
             //CALCULAR EL CUBO DE UN NUMERO
             //PASO 0: DECLARACION DE VARIABLES
             int N1, RESULTADO;
